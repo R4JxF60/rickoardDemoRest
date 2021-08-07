@@ -1,0 +1,12 @@
+Need to have a three boards for holding cards.
+    board 01 => todo
+    board 02 => doing
+    board 03 => done
+
+    cards can dragable into these three boards
+
+create a card in any board
+update a selected card in a board
+changing the card among boards
+delete a card in a board
+getting all the cards related to a board
